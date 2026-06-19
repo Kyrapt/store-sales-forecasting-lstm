@@ -9,6 +9,8 @@ This project was developed as part of the **Artificial Intelligence Course at Ma
 * **Scikit-Learn:** Data normalization (MinMaxScaler).
 * **Matplotlib:** Graphical visualization of results.
 
+![Prediction Results](resultado_previsao_vendas.png)
+
 ## 📊 How It Works
 1. The script loads the dataset and filters sales for a single store.
 2. Missing values are handled using data interpolation.
